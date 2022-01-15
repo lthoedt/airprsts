@@ -292,3 +292,100 @@
 
 ----
 
+# Lambert–St. Louis International Airport
+
+<img src="https://www.bigorre.org/imgl/maps_aeroport_KSTL.jpg" alt="Aviation weather and VAC for Lambert St. Louis Intl airport (KSTL-STL)" style="zoom:150%;" />
+
+## Runways
+
+|  ID  | Width         | Length              | Bearing (true/mag) | Surface  | Threshold      | Overrun        | Markings | Lighting                                    |
+| :--: | :------------ | :------------------ | :----------------- | :------- | :------------- | :------------- | :------- | :------------------------------------------ |
+|  06  | 151 ft / 46 m | 7,615 ft / 2,321 m  | 62.73° / 64.49°    | CONCRETE | 0 ft / 0 m     | 89 ft / 27 m   | PREC-APP | CENTERLINE EDGE THRESHOLD MALSR REIL-OMNI   |
+|  11  | 151 ft / 46 m | 9,012 ft / 2,747 m  | 122.28° / 124.04°  | CONCRETE | 0 ft / 0 m     | 390 ft / 119 m | PREC-APP | CENTERLINE EDGE THRESHOLD ALSF-II REIL-OMNI |
+| 12L  | 151 ft / 46 m | 9,012 ft / 2,747 m  | 122.32° / 124.08°  | CONCRETE | 0 ft / 0 m     | 121 ft / 37 m  | PREC-APP | CENTERLINE EDGE THRESHOLD ALSF-II REIL-OMNI |
+| 12R  | 200 ft / 61 m | 11,031 ft / 3,362 m | 122.29° / 124.06°  | CONCRETE | 479 ft / 146 m | 164 ft / 50 m  | PREC-APP | CENTERLINE EDGE THRESHOLD MALSR REIL-OMNI   |
+|  24  | 151 ft / 46 m | 7,615 ft / 2,321 m  | 242.74° / 244.51°  | CONCRETE | 0 ft / 0 m     | 89 ft / 27 m   | PREC-APP | CENTERLINE EDGE THRESHOLD MALSR REIL-OMNI   |
+|  29  | 151 ft / 46 m | 9,012 ft / 2,747 m  | 302.30° / 304.06°  | CONCRETE | 0 ft / 0 m     | 390 ft / 119 m | PREC-APP | CENTERLINE EDGE THRESHOLD ALSF-II REIL-OMNI |
+| 30L  | 200 ft / 61 m | 11,031 ft / 3,362 m | 302.31° / 304.08°  | CONCRETE | 213 ft / 65 m  | 187 ft / 57 m  | PREC-APP | CENTERLINE EDGE THRESHOLD MALSR REIL-OMNI   |
+| 30R  | 151 ft / 46 m | 9,012 ft / 2,747 m  | 302.33° / 304.10°  | CONCRETE | 0 ft / 0 m     | 200 ft / 61 m  | PREC-APP | CENTERLINE EDGE THRESHOLD ALSF-II REIL-OMNI |
+
+## Approach Navaids
+
+| Runway | Type    | Ident | Frequency  | Range         | Bearing (true/mag) | Slope | Elevation             |
+| :----: | :------ | :---- | :--------- | :------------ | :----------------- | :---- | :-------------------- |
+|   06   | GS      | IJAK  | 110.30 MHz | 10 nm / 19 km | 63.45° / 65.21°    | 3.00° | 539 ft / 164 m (AMSL) |
+|   06   | LOC-ILS | IJAK  | 110.30 MHz | 18 nm / 33 km | 62.72° / 64.48°    | -     | 541 ft / 165 m (AMSL) |
+|   06   | DME     | IJAK  | 110.30 MHz | 18 nm / 33 km | -                  | -     | 556 ft / 169 m (AMSL) |
+|   11   | DME     | IOGZ  | 111.95 MHz | 18 nm / 33 km | -                  | -     | 548 ft / 167 m (AMSL) |
+|   11   | LOC-ILS | IOGZ  | 111.95 MHz | 18 nm / 33 km | 122.29° / 124.05°  | -     | 545 ft / 166 m (AMSL) |
+|   11   | IM      | IM    | -          | -             | 122.28° / 124.04°  | -     | 614 ft / 187 m (AMSL) |
+|   11   | GS      | IOGZ  | 111.95 MHz | 10 nm / 19 km | 122.56° / 124.32°  | 3.00° | 598 ft / 182 m (AMSL) |
+|  12L   | GS      | ILDZ  | 108.90 MHz | 10 nm / 19 km | 122.62° / 124.38°  | 3.00° | 598 ft / 182 m (AMSL) |
+|  12L   | OM      | OM    | -          | -             | 122.31° / 124.07°  | -     | 446 ft / 136 m (AMSL) |
+|  12L   | LOC-ILS | ILDZ  | 108.90 MHz | 18 nm / 33 km | 122.31° / 124.07°  | -     | 598 ft / 182 m (AMSL) |
+|  12L   | IM      | IM    | -          | -             | 122.31° / 124.07°  | -     | 604 ft / 184 m (AMSL) |
+|  12L   | MM      | MM    | -          | -             | 122.31° / 124.07°  | -     | 604 ft / 184 m (AMSL) |
+|  12L   | DME     | ILDZ  | 108.90 MHz | 18 nm / 33 km | -                  | -     | 616 ft / 188 m (AMSL) |
+|  12R   | LOC-ILS | ILMR  | 109.70 MHz | 18 nm / 33 km | 122.30° / 124.07°  | -     | 588 ft / 179 m (AMSL) |
+|  12R   | MM      | MM    | -          | -             | 122.30° / 124.07°  | -     | 604 ft / 184 m (AMSL) |
+|  12R   | OM      | OM    | -          | -             | 122.30° / 124.07°  | -     | 604 ft / 184 m (AMSL) |
+|  12R   | GS      | ILMR  | 109.70 MHz | 10 nm / 19 km | 122.61° / 124.37°  | 3.00° | 528 ft / 161 m (AMSL) |
+|   24   | DME     | ISTL  | 110.30 MHz | 18 nm / 33 km | -                  | -     | 540 ft / 165 m (AMSL) |
+|   24   | GS      | ISTL  | 110.30 MHz | 10 nm / 19 km | 243.45° / 245.21°  | 3.00° | 528 ft / 161 m (AMSL) |
+|   24   | OM      | OM    | -          | -             | 242.73° / 244.49°  | -     | 604 ft / 184 m (AMSL) |
+|   24   | LOC-ILS | ISTL  | 110.30 MHz | 18 nm / 33 km | 242.73° / 244.49°  | -     | 545 ft / 166 m (AMSL) |
+|   29   | LOC-ILS | IRQN  | 111.95 MHz | 18 nm / 33 km | 302.27° / 304.03°  | -     | 613 ft / 187 m (AMSL) |
+|   29   | IM      | IM    | -          | -             | 302.28° / 304.04°  | -     | 541 ft / 165 m (AMSL) |
+|   29   | GS      | IRQN  | 111.95 MHz | 10 nm / 19 km | 302.56° / 304.32°  | 3.00° | 556 ft / 169 m (AMSL) |
+|   29   | DME     | IRQN  | 111.95 MHz | 18 nm / 33 km | -                  | -     | 608 ft / 185 m (AMSL) |
+|  30L   | OM      | OM    | -          | -             | 302.30° / 304.07°  | -     | 604 ft / 184 m (AMSL) |
+|  30L   | LOC-ILS | IBKY  | 111.50 MHz | 18 nm / 33 km | 302.29° / 304.06°  | -     | 549 ft / 167 m (AMSL) |
+|  30L   | GS      | IBKY  | 111.50 MHz | 10 nm / 19 km | 302.61° / 304.37°  | 3.00° | 566 ft / 173 m (AMSL) |
+|  30R   | OM      | OM    | -          | -             | 302.31° / 304.07°  | -     | 604 ft / 184 m (AMSL) |
+|  30R   | IM      | IM    | -          | -             | 302.31° / 304.07°  | -     | 604 ft / 184 m (AMSL) |
+|  30R   | MM      | MM    | -          | -             | 302.31° / 304.07°  | -     | 604 ft / 184 m (AMSL) |
+|  30R   | LOC-ILS | ISJW  | 111.30 MHz | 18 nm / 33 km | 302.30° / 304.06°  | -     | 530 ft / 162 m (AMSL) |
+|  30R   | GS      | ISJW  | 111.30 MHz | 10 nm / 19 km | 302.62° / 304.38°  | 3.00° | 592 ft / 180 m (AMSL) |
+|  30R   | DME     | ISJW  | 111.30 MHz | 18 nm / 33 km | -                  | -     | 546 ft / 166 m (AMSL) |
+
+# Internationale luchthaven La Aurora
+
+![MGGT](C:\Users\lthoe\github\airprsts\images\MGGT.png)
+
+## ICAO - `MGGT`
+
+## Runways
+
+|  ID  | Width         | Length             | Bearing (true/mag) | Surface | Threshold      | Overrun       | Markings | Lighting                      |
+| :--: | :------------ | :----------------- | :----------------- | :------ | :------------- | :------------ | :------- | :---------------------------- |
+|  02  | 197 ft / 60 m | 9,809 ft / 2,990 m | 17.28° / 16.77°    | ASPHALT | 0 ft / 0 m     | 184 ft / 56 m | PREC-APP | EDGE THRESHOLD MALS REIL-OMNI |
+|  20  | 197 ft / 60 m | 9,809 ft / 2,990 m | 197.28° / 196.77°  | ASPHALT | 702 ft / 214 m | 223 ft / 68 m | PREC-APP | EDGE THRESHOLD MALS REIL-OMNI |
+
+## Approach Navaids
+
+| Runway | Type    | Ident | Frequency  | Range         | Bearing (true/mag) | Slope | Elevation                 |
+| :----: | :------ | :---- | :--------- | :------------ | :----------------- | :---- | :------------------------ |
+|   02   | DME     | IAAI  | 110.10 MHz | 18 nm / 33 km | -                  | -     | 4,952 ft / 1,509 m (AMSL) |
+|   02   | LOC-ILS | IAAI  | 110.10 MHz | 18 nm / 33 km | 17.29° / 16.78°    | -     | 4,952 ft / 1,509 m (AMSL) |
+|   02   | GS      | IAAI  | 110.10 MHz | 10 nm / 19 km | 17.29° / 16.78°    | 3.00° | 4,952 ft / 1,509 m (AMSL) |
+
+# Luchthaven Managua
+
+![MNMG](C:\Users\lthoe\github\airprsts\images\MNMG.png)
+
+## ICAO - `MNMG`
+
+## Runways
+
+|  ID  | Width         | Length             | Bearing (true/mag) | Surface | Threshold  | Overrun      | Markings | Lighting                        |
+| :--: | :------------ | :----------------- | :----------------- | :------ | :--------- | :----------- | :------- | :------------------------------ |
+|  10  | 151 ft / 46 m | 8,019 ft / 2,444 m | 96.50° / 98.03°    | ASPHALT | 0 ft / 0 m | 89 ft / 27 m | PREC-APP | EDGE THRESHOLD ALSF-I REIL-OMNI |
+|  28  | 151 ft / 46 m | 8,019 ft / 2,444 m | 276.50° / 278.03°  | ASPHALT | 0 ft / 0 m | 98 ft / 30 m | PREC-APP | EDGE THRESHOLD REIL-OMNI        |
+
+## Approach Navaids
+
+| Runway | Type    | Ident | Frequency  | Range         | Bearing (true/mag) | Slope | Elevation            |
+| :----: | :------ | :---- | :--------- | :------------ | :----------------- | :---- | :------------------- |
+|   10   | DME     | IMGA  | 109.10 MHz | 18 nm / 33 km | -                  | -     | 194 ft / 59 m (AMSL) |
+|   10   | LOC-ILS | IMGA  | 109.10 MHz | 18 nm / 33 km | 96.54° / 98.07°    | -     | 192 ft / 59 m (AMSL) |
+|   10   | GS      | IMGA  | 109.10 MHz | 10 nm / 19 km | 96.54° / 98.07°    | 3.10° | 192 ft / 59 m (AMSL) |
